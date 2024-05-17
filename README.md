@@ -85,4 +85,4 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 __Summary Statistics Table__ 
 
-(https://github.com/kgregart/excel-challenge/blob/main/Images/Statistical%20Calculations%20and%20Analysis.png)
+!(https://github.com/kgregart/excel-challenge/blob/main/Images/Statistical%20Calculations%20and%20Analysis.png)
