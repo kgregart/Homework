@@ -81,7 +81,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 - Create a line chart that graphs the relationship between a goal amount and its chances of    success, failure, or cancellation.
 
-## Statistical Analysis
+## Statistical Summary
 
 __Summary Statistics Table__ 
 
