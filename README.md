@@ -38,7 +38,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
   - Create a pivot-chart line graph that visualizes this new table.
 
-- [Create a report in Microsoft Word, and answer the following questions:](Crowdfunding Analysis.pdf)
+- [Create a report in Microsoft Word, and answer the following questions:]([Crowdfunding Analysis.pdf](https://github.com/kgregart/excel-challenge/blob/main/Crowdfunding%20Analysis.pdf))
 
   - Given the provided data, what are three conclusions that we can draw about crowdfunding      campaigns?
 
