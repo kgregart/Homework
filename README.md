@@ -48,7 +48,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
   - What are some other possible tables and/or graphs that we could create, and what             additional value would they provide?
 
-## Crowdfunding Goal Analysis
+### Crowdfunding Goal Analysis
 
 - Create a new sheet with 8 columns:
 
@@ -83,6 +83,6 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 - Create a line chart that graphs the relationship between a goal amount and its chances of    success, failure, or cancellation.
 
-## Statistical Summary
+## Results | Statistical Summary
 
 ![Summary Statistics Table](https://github.com/kgregart/excel-challenge/blob/main/Images/Statistical%20Calculations%20and%20Analysis.png)
