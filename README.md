@@ -48,7 +48,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
   - What are some other possible tables and/or graphs that we could create, and what             additional value would they provide?
 
-### Crowdfunding Goal Analysis
+### Crowdfunding Goal Analysis Instructions
 
 - Create a new sheet with 8 columns:
 
